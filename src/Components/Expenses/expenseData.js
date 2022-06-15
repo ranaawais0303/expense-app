@@ -4,20 +4,20 @@ const expenseData = [
   {
     id: "e1",
     title: "Toilet Paper",
-    amount: 84.99,
+    amount: 23.99,
     date: new Date(2020, 7, 14),
   },
   {
     id: "e2",
     title: "New TV",
-    amount: 840.99,
-    date: new Date(2022, 7, 20),
+    amount: 84.99,
+    date: new Date(2020, 8, 20),
   },
   {
     id: "e3",
     title: "Car Insurance",
-    amount: 220.99,
-    date: new Date(2020, 7, 14),
+    amount: 20.99,
+    date: new Date(2020, 8, 18),
   },
   {
     id: "e4",
